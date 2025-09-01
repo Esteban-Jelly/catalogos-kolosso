@@ -1,0 +1,20 @@
+# Documentación del Proyecto Catalogos-Kolosso
+
+## Descripción
+Proyecto para la generación y gestión de catálogos PDF de Kolosso Jelly
+
+## Estructura del Proyecto
+- /data/generated_pdfs/ - Catálogos PDF generados
+- /scripts/ - Scripts de generación y procesamiento
+- /templates/ - Plantillas para los catálogos
+
+## Comandos Git útiles
+git status - Ver estado del repositorio
+git add . - Añadir todos los cambios
+git commit -m "mensaje" - Hacer commit
+git push origin main - Subir cambios
+
+## Notas
+- Los archivos PDF se generan automáticamente
+- Mantener la estructura de carpetas
+- Hacer push regularmente para respaldar
