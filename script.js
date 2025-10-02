@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const lastUpdatedElement = document.getElementById('last-updated');
     const catalogListElement = document.getElementById('catalog-list');
 
-    const lastUpdatedDate = '22 de septiembre de 2025';
+    const lastUpdatedDate = '29 de septiembre de 2025';
     lastUpdatedElement.textContent = lastUpdatedDate;
 
     const catalogos = [
